@@ -1,0 +1,25 @@
+{
+  "name": "jquery.or",
+  "version": "0.1.0",
+  "homepage": "https://github.com/uralrocks/jquery.or",
+  "authors": [
+    "Mikhail Petrovskikh <mvp@uralrocks.com>"
+  ],
+  "description": "jQuery fall-back search plugin",
+  "main": "./src/jquery.or.js",
+  "keywords": [
+    "plugin",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+        "jquery": "latest"
+   }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "jquery.or",
+  "version": "0.1.0",
+  "description": "jQuery fall-back search plugin",
+  "main": "./src/jquery.or.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uralrocks/jquery.or.git"
+  },
+  "keywords": [
+    "jquery",
+    "plugin",
+    "fallback"
+  ],
+  "author": "Mikhail Petrovskikh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uralrocks/jquery.or/issues"
+  },
+  "homepage": "https://github.com/uralrocks/jquery.or"
+}
