@@ -1,4 +1,4 @@
-﻿(function (global) {
+﻿(function (global, undefined) {
 
     var moduleNames = ["or","notfound", "inf"],
         version = "0.1",
